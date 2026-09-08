@@ -238,3 +238,6 @@ This repository serves as the official landing page for Ashampoo Undeleter. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ashampoo Undeleter today!**
+
+---
+**Last updated:** 2026-09-08 06:55:50 UTC
