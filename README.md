@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ashampoo Undeleter. The 
 **Get the most recent version of Ashampoo Undeleter today!**
 
 ---
-**Last updated:** 2026-10-07 22:44:37 UTC
+**Last updated:** 2026-10-08 02:31:42 UTC
